@@ -1,0 +1,5 @@
+If you run this project, please use rstudio to open project. 
+The code data processing.R need the fire file, please put 
+them in fire explorer porject. Firstly, please set the current 
+working directory of the file path of shinyRun.R, if you want 
+to run shinyApp.R
